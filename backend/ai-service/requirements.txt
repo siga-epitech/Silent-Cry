@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+opencv-python-headless
+tflite-runtime
+python-multipart
+numpy
+PyJWT
+requests
